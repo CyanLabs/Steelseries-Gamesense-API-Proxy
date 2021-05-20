@@ -1,3 +1,5 @@
+`THIS APPLICATION IS NO LONGER BEING DEVELOPED AND THE REPOSITORY HAS BEEN ARCHIVED!`
+
 # Steelseries Gamesense API Proxy
 
 Allows the gamesense API to be used from other devices on LAN
